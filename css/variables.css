@@ -1,0 +1,7 @@
+:root {
+  --yellow: #f9e000;
+  --horizontal-space: 25px;
+  /*make a var- red dot ..challenge*/
+  --main-border: 1px solid rgba(0, 0, 0, 0.2);
+  /*i have to make a var- color: rgba(0, 0, 0, 0.5) ..homework*/
+}
